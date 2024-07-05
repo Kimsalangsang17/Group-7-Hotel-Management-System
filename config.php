@@ -1,8 +1,8 @@
 <?php
 
 $server = "localhost";
-$username = "asiatel_user";
-$password = "password";
+$username = "root";
+$password = "";
 $database = "asiatel";
 
 $conn = mysqli_connect($server,$username,$password,$database);
